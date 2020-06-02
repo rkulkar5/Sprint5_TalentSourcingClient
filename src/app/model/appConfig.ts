@@ -4,9 +4,8 @@ export const appConfig = {
   testDuration: 3600, //value in seconds
   noOfQuestions: 30,
   defaultPassword: 'welcome',
-  defaultEncryptedPassword: 'tcIq8+z=rk=PHcxPzQAdpMUXA=='
-  
-   baseUri:string = 'http://localhost:4000
+  defaultEncryptedPassword: 'tcIq8+z=rk=PHcxPzQAdpMUXA==',  
+   baseUri:'http://localhost:4000'
    
 };
 
