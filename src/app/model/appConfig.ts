@@ -5,5 +5,5 @@ export const appConfig = {
   noOfQuestions: 30,
   defaultPassword: 'welcome',
   defaultEncryptedPassword: 'tcIq8+z=rk=PHcxPzQAdpMUXA==',  
-  baseUri:'http://localhost:4000'
+  baseUri:'https://tatapi.mybluemix.net/'
 };
